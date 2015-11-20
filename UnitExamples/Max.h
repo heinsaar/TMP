@@ -7,7 +7,7 @@ struct Max
     enum { value = (LEFT < RIGHT) ? RIGHT : LEFT };
 };
 
-//Other way find the max.
+// constexpr equivalent of the above TMP version
 
 template <class T>
 constexpr const T& max(const T& l, const T& r)
