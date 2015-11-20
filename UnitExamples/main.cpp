@@ -25,5 +25,4 @@ int main()
     std::cout << sizeof(q_char) << " " << sizeof(q_int) << '\n';
     
     std::cout << "\n";
-    return 0;
 }
