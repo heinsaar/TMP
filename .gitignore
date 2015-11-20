@@ -1,0 +1,12 @@
+*.obj
+UnitExamples/Debug/UnitExamples.tlog/CL.command.1.tlog
+*.tlog
+UnitExamples/Debug/vc140.pdb
+*.idb
+UnitExamples/Debug/UnitExamples.log
+*.opensdf
+.vs/UnitExamples/v14/.suo
+*.pdb
+*.sdf
+Debug/UnitExamples.ilk
+*.exe
