@@ -150,6 +150,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Factorial.h" />
+    <ClInclude Include="Fibonacci.h" />
     <ClInclude Include="If.h" />
     <ClInclude Include="Loop.h" />
     <ClInclude Include="Max.h" />
