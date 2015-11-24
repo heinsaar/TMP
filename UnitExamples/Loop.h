@@ -16,7 +16,7 @@ struct LOOP<0>
 {
     static void EXEC()
     {
-        //Do nothing,just stop.
+        // Recursion base; do nothing, just stop.
     }
 };
 
