@@ -1,7 +1,6 @@
 #ifndef LOOP_H
 #define LOOP_H
 
-
 template<int COUNT>
 struct LOOP
 {
