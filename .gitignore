@@ -10,3 +10,8 @@ UnitExamples/Debug/UnitExamples.log
 *.sdf
 Debug/UnitExamples.ilk
 *.exe
+*.vsp
+*.log
+*.suo
+*.psess
+*.opendb
